@@ -422,3 +422,115 @@
 2022-09-07 18:51:55,911-INFO-********home page title test is passed********
 2022-09-07 18:51:55,911-INFO-********home page title test is passed********
 2022-09-07 18:51:55,911-INFO-********home page title test is passed********
+2022-09-10 15:02:25,282-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:02:25,282-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:02:25,282-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:02:25,282-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:02:30,193-INFO-***************log in sucessful*********
+2022-09-10 15:02:30,193-INFO-***************log in sucessful*********
+2022-09-10 15:02:30,193-INFO-***************log in sucessful*********
+2022-09-10 15:02:30,193-INFO-***************log in sucessful*********
+2022-09-10 15:02:30,193-INFO-*******start add customer test**************
+2022-09-10 15:02:30,193-INFO-*******start add customer test**************
+2022-09-10 15:02:30,193-INFO-*******start add customer test**************
+2022-09-10 15:02:30,193-INFO-*******start add customer test**************
+2022-09-10 15:02:47,308-INFO-***********providing customer info***********
+2022-09-10 15:02:47,308-INFO-***********providing customer info***********
+2022-09-10 15:02:47,308-INFO-***********providing customer info***********
+2022-09-10 15:02:47,308-INFO-***********providing customer info***********
+2022-09-10 15:03:02,715-INFO-********saving customer info **********
+2022-09-10 15:03:02,715-INFO-********saving customer info **********
+2022-09-10 15:03:02,715-INFO-********saving customer info **********
+2022-09-10 15:03:02,715-INFO-********saving customer info **********
+2022-09-10 15:03:02,716-INFO-***************add customer validation started*******
+2022-09-10 15:03:02,716-INFO-***************add customer validation started*******
+2022-09-10 15:03:02,716-INFO-***************add customer validation started*******
+2022-09-10 15:03:02,716-INFO-***************add customer validation started*******
+2022-09-10 15:03:02,946-INFO-*****add customere test passes***********
+2022-09-10 15:03:02,946-INFO-*****add customere test passes***********
+2022-09-10 15:03:02,946-INFO-*****add customere test passes***********
+2022-09-10 15:03:02,946-INFO-*****add customere test passes***********
+2022-09-10 15:03:03,078-INFO-**********ending add customer  test**********
+2022-09-10 15:03:03,078-INFO-**********ending add customer  test**********
+2022-09-10 15:03:03,078-INFO-**********ending add customer  test**********
+2022-09-10 15:03:03,078-INFO-**********ending add customer  test**********
+2022-09-10 15:03:04,323-INFO-***********Test_001_LogIn*********
+2022-09-10 15:03:04,323-INFO-***********Test_001_LogIn*********
+2022-09-10 15:03:04,323-INFO-***********Test_001_LogIn*********
+2022-09-10 15:03:04,323-INFO-***********Test_001_LogIn*********
+2022-09-10 15:03:04,324-INFO-***********verify home page title*********
+2022-09-10 15:03:04,324-INFO-***********verify home page title*********
+2022-09-10 15:03:04,324-INFO-***********verify home page title*********
+2022-09-10 15:03:04,324-INFO-***********verify home page title*********
+2022-09-10 15:03:06,302-INFO-********home page title test is passed********
+2022-09-10 15:03:06,302-INFO-********home page title test is passed********
+2022-09-10 15:03:06,302-INFO-********home page title test is passed********
+2022-09-10 15:03:06,302-INFO-********home page title test is passed********
+2022-09-10 15:03:07,488-INFO-***********verify login  page title*********
+2022-09-10 15:03:07,488-INFO-***********verify login  page title*********
+2022-09-10 15:03:07,488-INFO-***********verify login  page title*********
+2022-09-10 15:03:07,488-INFO-***********verify login  page title*********
+2022-09-10 15:03:10,923-INFO-********login test is passed*******
+2022-09-10 15:03:10,923-INFO-********login test is passed*******
+2022-09-10 15:03:10,923-INFO-********login test is passed*******
+2022-09-10 15:03:10,923-INFO-********login test is passed*******
+2022-09-10 15:03:12,139-INFO-***test_002_ddt_login*******
+2022-09-10 15:03:12,139-INFO-***test_002_ddt_login*******
+2022-09-10 15:03:12,139-INFO-***test_002_ddt_login*******
+2022-09-10 15:03:12,139-INFO-***test_002_ddt_login*******
+2022-09-10 15:03:12,139-INFO-***********verify login  page title*********
+2022-09-10 15:03:12,139-INFO-***********verify login  page title*********
+2022-09-10 15:03:12,139-INFO-***********verify login  page title*********
+2022-09-10 15:03:12,139-INFO-***********verify login  page title*********
+2022-09-10 15:03:17,689-INFO-test is passed
+2022-09-10 15:03:17,689-INFO-test is passed
+2022-09-10 15:03:17,689-INFO-test is passed
+2022-09-10 15:03:17,689-INFO-test is passed
+2022-09-10 15:03:21,184-INFO-test is passed
+2022-09-10 15:03:21,184-INFO-test is passed
+2022-09-10 15:03:21,184-INFO-test is passed
+2022-09-10 15:03:21,184-INFO-test is passed
+2022-09-10 15:03:24,176-INFO-test is passed
+2022-09-10 15:03:24,176-INFO-test is passed
+2022-09-10 15:03:24,176-INFO-test is passed
+2022-09-10 15:03:24,176-INFO-test is passed
+2022-09-10 15:03:26,862-INFO-test is passed
+2022-09-10 15:03:26,862-INFO-test is passed
+2022-09-10 15:03:26,862-INFO-test is passed
+2022-09-10 15:03:26,862-INFO-test is passed
+2022-09-10 15:03:26,862-INFO-***login ddt is passed****
+2022-09-10 15:03:26,862-INFO-***login ddt is passed****
+2022-09-10 15:03:26,862-INFO-***login ddt is passed****
+2022-09-10 15:03:26,862-INFO-***login ddt is passed****
+2022-09-10 15:03:28,208-INFO-**************searchbyemail_004*********
+2022-09-10 15:03:28,208-INFO-**************searchbyemail_004*********
+2022-09-10 15:03:28,208-INFO-**************searchbyemail_004*********
+2022-09-10 15:03:28,208-INFO-**************searchbyemail_004*********
+2022-09-10 15:03:32,510-INFO-***********login sucessfull*************
+2022-09-10 15:03:32,510-INFO-***********login sucessfull*************
+2022-09-10 15:03:32,510-INFO-***********login sucessfull*************
+2022-09-10 15:03:32,510-INFO-***********login sucessfull*************
+2022-09-10 15:03:32,511-INFO-*********search customer by email*************
+2022-09-10 15:03:32,511-INFO-*********search customer by email*************
+2022-09-10 15:03:32,511-INFO-*********search customer by email*************
+2022-09-10 15:03:32,511-INFO-*********search customer by email*************
+2022-09-10 15:03:34,299-INFO-*********searching customer by id*************
+2022-09-10 15:03:34,299-INFO-*********searching customer by id*************
+2022-09-10 15:03:34,299-INFO-*********searching customer by id*************
+2022-09-10 15:03:34,299-INFO-*********searching customer by id*************
+2022-09-10 15:03:39,651-INFO-********testcase_search by email finished***
+2022-09-10 15:03:39,651-INFO-********testcase_search by email finished***
+2022-09-10 15:03:39,651-INFO-********testcase_search by email finished***
+2022-09-10 15:03:39,651-INFO-********testcase_search by email finished***
+2022-09-10 15:06:22,337-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:06:22,337-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:06:22,337-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:06:22,337-INFO-***********Test_003_AddCustomer**********
+2022-09-10 15:06:26,403-INFO-***************log in sucessful*********
+2022-09-10 15:06:26,403-INFO-***************log in sucessful*********
+2022-09-10 15:06:26,403-INFO-***************log in sucessful*********
+2022-09-10 15:06:26,403-INFO-***************log in sucessful*********
+2022-09-10 15:06:26,404-INFO-*******start add customer test**************
+2022-09-10 15:06:26,404-INFO-*******start add customer test**************
+2022-09-10 15:06:26,404-INFO-*******start add customer test**************
+2022-09-10 15:06:26,404-INFO-*******start add customer test**************

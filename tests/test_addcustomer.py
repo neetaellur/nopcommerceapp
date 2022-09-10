@@ -10,6 +10,7 @@ from pageObjects.Addcustomerpage import AddCustomer
 from utilities.customLogger import LogGen
 import string
 import random
+from webdriver_manager.chrome import ChromeDriverManager
 class Test_003_AddCustomer:
     baseurl = ReadConfig.getApplicationURL()
     username = ReadConfig.getUseremail()

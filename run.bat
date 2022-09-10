@@ -1,3 +1,3 @@
 @ECHO OFF
-python -m pytest -m "sanity" tests\ --browser chrome
+python -m pytest tests/ --browser chrome
 pause
